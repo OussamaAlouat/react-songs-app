@@ -1,4 +1,4 @@
-import {combineReducers} from "redux/es/redux";
+import {combineReducers} from "redux";
 
 const songsReducer = () => {
     return [
